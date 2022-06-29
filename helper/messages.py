@@ -13,7 +13,7 @@ FEEDBACK_REPLY_TEXT = "First please select a bot!!👮"
 
 CONTACT_TEXT = "**Contact**\n\n√ You can connect with the admin from here.\n\n√ Type your message here and send.\n\n√ After you finish click <<**Finish📩**>>"
 
-REPLY_MESSAGE = "Hello dear, You can ue this bot to✨,\n\n" \
+REPLY_MESSAGE = "Hello, You can ue this bot to✨,\n\n" \
                 "    -Give feedbacks  🐞.\n\n" \
                 "    -Give suggestions🐣.\n\n" \
                 "    -Contact with Sanila🐍.\n\n" \
@@ -22,7 +22,7 @@ REPLY_MESSAGE = "Hello dear, You can ue this bot to✨,\n\n" \
 
 LEARN_TEXT = "Please select the bot that you want to learn!!👨‍🏫"
 
-START_TEXT_CAPTION_TEXT = "Hello user💖,\n\n" \
+START_TEXT_CAPTION_TEXT = "Hello💖,\n\n" \
                           "◇───────────────◇\n\n" \
                           "**These are the bots that created by Sanila🙇‍♂.**\n\n" \
                           "▬▬▬ ◈ <a href=https://t.me/songdownload597_bot>Song Download Bot</a>\n" \
